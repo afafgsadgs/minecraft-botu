@@ -4,7 +4,7 @@ var db = require("quick.db");
 var ayar = {
   host: "fi1.neronodes.net", //Sunucu IPnizi giriniz.
   port: 4180, //Sunucu portunuzu giriniz.
-  username: "BOT", //Sunucuya giriş yapacak bot isminizi girin.
+  username: "BOT2DENEME", //Sunucuya giriş yapacak bot isminizi girin.
   version: false //Burayı değiştirmeyin.
 };
 
